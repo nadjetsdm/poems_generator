@@ -1,7 +1,4 @@
 # poem_generator
  
-voici les étapes afin d'éxécuter le code : 
-    - Ouvrir la ligne de commandes
-    - executer pip install streamlit, json, random, nltk, googletrans
-    - streamlit run final.py 
+afin d'écuter : installer les bibliotheques et exécuter la commande streamlit run final.py
 
